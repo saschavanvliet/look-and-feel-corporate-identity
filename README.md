@@ -18,6 +18,16 @@ De instructie vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/look-and-f
 
 ## Bronnen
 
+## Definitions of Done
+
+Deze opdracht is done als:
+
+- De website staat op GitHub en heeft een live url
+- Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
+- Je hebt met een team een styleguide ontworpen en gemaakt
+- Jouw website voldoet aan de huisstijl van de opdrachtgever
+- Jouw website maakt gebruik van de stylesheet uit de styleguide
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
